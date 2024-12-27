@@ -1,0 +1,8 @@
+Umar:Hassaan,Ali,Kamran,Huzaifa
+Mubin:Hassaan,Kamran
+Ali:Umar,Hassaan,Abdullah,Zebulun
+Hassaan:Umar,Mubin,Ali
+Kamran:Umar,Mubin
+Zebulun:Ali
+Huzaifa:Umar
+Abdullah:Ali

@@ -1,0 +1,11 @@
+64406,Waseh,Waseh@123,waseh@example.com,2004-11-09,Male,Islamabad|Pakistan
+45801,Umar,Umar@123,umar@example.com,2003-12-11,Male,Lahore|Pakistan
+28328,Mubin,Mubin@123,mubin@example.com,2003-09-22,Male,Karachi|Pakistan
+88611,Ali,Password@123,ali@example.com,2004-03-23,Male,Lahore|Pakistan
+44486,Hassaan,Hassaan@1,hassaan@example.com,2005-09-12,Male,Lahore|Pakistan
+36959,Kamran,Kamran@123,Kamran@example.com,2000-12-11,Male,Lahore|Pakistan
+34458,Zebulun,Zebi@1,Zebi@example.com,2002-08-13,Male,Lahore|Pakistan
+13718,Atif,Atif@123,Atif@example.com,2006-10-18,Male,Islamabad|Pakistan
+47388,Burhan,Burhan@1,burhan@example.com,2001-10-16,Male,Lahore|Pakistan
+43003,Huzaifa,Huzaifa@1,huzaifa@gmail.com,2000-05-16,Male,Rahim Yar Khan|Pakistan
+34763,Abdullah,Abdullah@1,abdullah@example.com,2000-07-11,Male,Karachi|Pakistan
